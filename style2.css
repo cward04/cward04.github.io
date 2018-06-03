@@ -1,0 +1,12 @@
+/* style2.css */
+/* used to style index.html */
+
+body{
+	background-color: lightblue;
+}
+
+h1{
+	color: black;
+	font-size: 40pt;
+	text-align: center;
+}
